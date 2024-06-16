@@ -13,7 +13,6 @@ Welcome to the Hangman game project! This is a classic word guessing game implem
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
